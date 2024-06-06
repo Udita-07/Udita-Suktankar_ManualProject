@@ -1,1 +1,1 @@
-# Udita-Suktankar_ManualProject
+# Udita-Suktankar_ManualAutomationProject
